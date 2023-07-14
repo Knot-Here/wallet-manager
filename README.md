@@ -9,7 +9,7 @@ You need Python 3.7 or later to run the Wallet Manager. You can check your Pytho
 You can install the required Python packages by running the following command:
 
 ```
-pip install -r requirements.txt
+pip install pycryptodome
 ```
 
 ## Usage
